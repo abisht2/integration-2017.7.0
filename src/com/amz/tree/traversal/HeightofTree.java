@@ -13,6 +13,8 @@ public class HeightofTree {
 		tree.root.right = new Node(3);
 		tree.root.left.left = new Node(7);
 		tree.root.left.right = new Node(6);
+		tree.root.left.right.right = new Node(9);
+		tree.root.left.right.right.right = new Node(10);
 		tree.root.right.left = new Node(5);
 		tree.root.right.right = new Node(4);
 		tree.root.right.right.right = new Node(8);
@@ -42,6 +44,9 @@ class Tree {
 				return lHeight + 1;
 			else
 				return rHeight + 1;
+			
+	       // return (1 + Math.max(height(node.left), height(node.right))); 
+
 
 		}
 	}
