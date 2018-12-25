@@ -3,6 +3,10 @@ package com.amz.strings;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class LongestUniqueSubstring {
 
 	public static void main(String[] args) {

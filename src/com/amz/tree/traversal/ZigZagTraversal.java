@@ -3,7 +3,7 @@ package com.amz.tree.traversal;
 import java.util.Stack;
 
 /**
- * @author Shashank
+ * @author Abhishek Bisht
  *
  */
 public class ZigZagTraversal {

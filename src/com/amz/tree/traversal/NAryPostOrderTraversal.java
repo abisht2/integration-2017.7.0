@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class NAryPostOrderTraversal {
 	NAryNode root;
 	

@@ -2,6 +2,10 @@ package com.amz.strings;
 
 import java.util.Arrays;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class StringAnagram {
 
 	static int NO_OF_CHARS = 256;

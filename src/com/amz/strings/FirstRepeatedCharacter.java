@@ -2,11 +2,16 @@ package com.amz.strings;
 
 import java.util.HashSet;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class FirstRepeatedCharacter {
 
 	/**
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

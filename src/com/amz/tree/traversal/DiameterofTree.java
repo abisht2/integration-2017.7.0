@@ -1,5 +1,9 @@
 package com.amz.tree.traversal;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class DiameterofTree {
 	Node root;
 

@@ -1,5 +1,9 @@
 package com.amz.tree.traversal;
 
+/**
+ * @author Abhishek Bisht
+ *
+ */
 public class HeightofTree {
 
 	static Node root;
