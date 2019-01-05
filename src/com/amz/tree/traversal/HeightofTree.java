@@ -6,8 +6,6 @@ package com.amz.tree.traversal;
  */
 public class HeightofTree {
 
-	static Node root;
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
